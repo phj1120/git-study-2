@@ -7,3 +7,5 @@
 github 수정
 
 local 에서 수정
+
+main 이 주 맞는지 확인
